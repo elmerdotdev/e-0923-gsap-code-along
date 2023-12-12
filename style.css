@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.box-2 {
+  background-color: blue;
+}
+
+.box-3 {
+  background-color: green;
+}
+
+.box-4 {
+  background-color: yellow;
+}
+
+.box-5 {
+  background-color: pink;
+}
